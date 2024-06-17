@@ -1,0 +1,6 @@
+id,NIM,username,nama,status,password,type,konfirmasi
+1,222212777,muli766hi,Muliani Silalahi,PSM,000,admin,Diterima
+2,222212539,briel,Briel Sevtriobragi Sihaloho,OSM,123,user,Belum Diterima
+3,222212844,kharis,Reykhan Kharis Alexandro Batubara,OSM,999,admin,Diterima
+4,212212442,adel,Adelina Ariqoh Khairunnisah,PSM,123,user,Diterima
+5,222212707,thania,Louista Thania Harahap,PSM,123,admin,Diterima
